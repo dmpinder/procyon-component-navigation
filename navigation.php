@@ -23,7 +23,7 @@ function procyon_component_navigation() {
             <span class="screen-reader-text">
                 <?php esc_html_e( 'Primary Menu', 'tenup' ); ?>
             </span>
-            <span aria-hidden="true">☰</span>
+            <span aria-hidden="true">&#9776;</span>
         </a>
 
         <?php
