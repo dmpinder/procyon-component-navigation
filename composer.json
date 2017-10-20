@@ -1,0 +1,22 @@
+{
+	"name": "dmpinder/procyon-component-navigation",
+	"description": "A drop-in WordPress component to add a WCAG-compliant navigation",
+	"homepage": "https://github.com/dmpinder/procyon-component-navigation",
+	"type" : "wordpress-muplugin",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name":"Darren Pinder",
+			"email":"darren@vatu.co.uk",
+			"homepage":"https://vatu.co.uk"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+		"johnpbloch/wordpress": "*",
+		"lkwdwrd/wp-muplugin-loader": "~1.0.0"
+	 }
+}
