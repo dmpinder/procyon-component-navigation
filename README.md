@@ -4,7 +4,7 @@ A drop-in WordPress component to add a WCAG-compliant navigation. Based on the e
 
 ## Intro
 
-This plugin adds a WCAG-compliant navigation component to your Wordpress website. 
+This plugin adds a WCAG-compliant navigation component to your WordPress website. 
 
 ## Contributing
 
