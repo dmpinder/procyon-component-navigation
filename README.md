@@ -13,3 +13,9 @@ This plugin adds a WCAG-compliant navigation component to your Wordpress website
 3. Commit your changes: `git commit -am 'Add some feature'`;
 4. Push to the branch: `git push origin my-new-feature`;
 5. Submit a pull request. :D
+
+## Version History
+
+1.0.0   Semver. Some plugin descriptions changes since move to Github.
+
+1.0     Initial commit.
