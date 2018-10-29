@@ -4,7 +4,7 @@
   Plugin URI:           https://github.com/dmpinder/procyon-component-navigation
   Description:          A drop-in PHP component to create a WCAG-compliant logo. Based on the excellent 10up component library.
   Author:               Darren Pinder, 10up
-  Version:              1.0.0
+  Version:              1.0.1
   Author URI:           https://vatu.co.uk
   GitHub Plugin URI:    https://github.com/dmpinder/procyon-component-navigation
   GitHub Branch:        master
